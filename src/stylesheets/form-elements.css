@@ -1,0 +1,27 @@
+/*tutaj sa style do ekranu logowania*/
+input {
+    height: 40px;
+    padding: 10px 20px;
+    border: 2px solid var(--primary);
+    width: 100%;
+}
+.primary-button {
+    height: 40px;
+    background-color: var(--primary);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: 0cap;
+
+}
+.border-radius {
+    border-radius: 15px;
+}
+.color-primary {
+    color: var(--primary);
+}
+.color-black {
+    color: black;
+}
+a:hover {
+    color: var(--secondary);
+}

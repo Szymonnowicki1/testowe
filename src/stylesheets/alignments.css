@@ -1,0 +1,127 @@
+/*tutaj sa zdefiniowane klasy stylow dla roznych usawien np.(wielkosc,dlugosc,szerokosc itd)
+i pozycjonowanie elementow */
+.h-screen {
+    height: 100vh;
+}
+.h-75 {
+    height: 75%;
+}
+.h-50 {
+    height: 50%;
+}
+.h-25 {
+    height: 25%;
+}
+
+.w-screen {
+    width: 100vh;
+}
+.w-100 {
+    width: 100%;
+}
+.w-90 {
+    width: 90%;
+}
+.w-75 {
+    width: 75%;
+}
+.w-50 {
+    width: 50%;
+}
+.w-25 {
+    width: 25%;
+}
+
+.w-400{
+    width: 400px;
+}
+.w-404{
+    width: 404px;
+}
+.w-396{
+    width: 396px;
+}
+
+.flex {
+    display: flex;
+}
+.flex-col {
+    flex-direction: column;
+}
+.justify-center {
+    justify-content: center;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.justify-start {
+    justify-content: flex-start;
+}
+.justify-end {
+    justify-content: flex-end;
+}
+.justify-right {
+        justify-content: right;
+}
+
+.items-center {
+    align-items: center;
+}
+.item-start {
+    align-items: flex-start;
+}
+.item-end {
+    align-items: flex-end;
+}
+.item-right {
+    align-items: right;
+}
+
+.gap-1 {
+    gap: 10px;
+}
+.gap-2 {
+    gap: 20px;
+}
+.gap-3 {
+    gap: 30px;
+}
+.gap-4 {
+    gap: 40px;
+}
+.gap-5 {
+    gap: 50px;
+}
+
+.p-1 {
+    padding: 10px;
+}
+.p-2 {
+    padding: 20px;
+}
+.p-3 {
+    padding: 30px;
+}
+.p-4 {
+    padding: 40px;
+}
+.p-5 {
+    padding: 50px;
+}
+
+.font-family-1 {
+    font-family: "Times New Roman", Times, serif
+}
+
+.mt-1 {
+    margin-top: 10px;
+}
+.mt-2 {
+    margin-top: 20px;
+}
+.ml-1 {
+    margin-left: 10px;
+}
+.ml-2 {
+    margin-left: 20px;
+}

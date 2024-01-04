@@ -1,0 +1,15 @@
+/*tutaj sa zamieszczone kolory i sa one globalne*/
+:root {
+    --primary: #AAC8A7;
+    --secondary: #c5a7c8;
+    --success: #4caf50;
+    --info: #00bcd4;
+    --warning: #ff9800;
+    --danger: #f44336;
+    --light: #f1f1f1;
+    --dark: #212121;
+}
+
+.bg-primary {
+    background-color: var(--primary) !important;
+}
